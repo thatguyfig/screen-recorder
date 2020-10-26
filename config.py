@@ -1,0 +1,1 @@
+RECORDING_FPS = 20.0
