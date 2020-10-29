@@ -1,20 +1,12 @@
-# screen-recorder
+# PyScreenCap
 A free screen recorder written with python. Sick of paywalled screen recording, overcomplicated setups etc.
-
-## Install Dependencies
-
-Run the below command to install Python dependencies:
-
-```bash
-pip install -r requirements.txt
-```
 
 ## Running the Recorder
 
 To run the recorder, run the following command:
 
 ```bash
-python record.py
+python -m pyscreencap
 ```
 
-Recorded files will be created under `recordings\`.
+Recorded files will be created the directory `pyscreencap-recordings` in your user profile.
